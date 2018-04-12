@@ -8,3 +8,4 @@ pool_configs/*.json
 logs
 package-lock.json
 start-nomp.sh
+
